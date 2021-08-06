@@ -1,4 +1,4 @@
-# Resultado 2 - Estimación del R efectivo a nivel comunal/semanal
+# Resultado 5 - Estimación del R efectivo a nivel comunal/semanal
 
 Este repositório incluye todo lo necesário para la reprodución del Resultado 2 - 
 Estimación del R efectivo a nivel comunal/semanal. A continuación usted puede 
