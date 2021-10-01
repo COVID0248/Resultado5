@@ -14,7 +14,7 @@ comunal/semanal, según método de estimación.
 
 **Report/**
 
-- `doc_short.pdf`: Versión corta del documento que explica la metodología.
-- `doc_long.docx`: Versión larga del documento que explica la metodología.
+- `result5_epicovid_en.pdf`: Versión corta del documento que explica la metodología (en inglés).
+- `resultado5_epicovid_es.pdf`: Versión corta del documento que explica la metodología (en inglés).
 - `slides.pdf`: Breve presentación de los objetivos, la metodología y 
 los resultados.
