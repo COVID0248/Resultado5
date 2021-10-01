@@ -15,6 +15,6 @@ comunal/semanal, según método de estimación.
 **Report/**
 
 - `result5_epicovid_en.pdf`: Versión corta del documento que explica la metodología (en inglés).
-- `resultado5_epicovid_es.pdf`: Versión corta del documento que explica la metodología (en inglés).
+- `resultado5_epicovid_es.pdf`: Versión corta del documento que explica la metodología (en español).
 - `slides.pdf`: Breve presentación de los objetivos, la metodología y 
 los resultados.
